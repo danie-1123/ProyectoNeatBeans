@@ -1,0 +1,74 @@
+nav.navbar ul.nav li {
+    font-family: "Agency FB";
+    font-size: 20px;
+}
+
+
+nav.navbar {
+    background-color: #CC1414;
+
+}
+
+
+#logo{
+
+	padding: 2em 2em 2em 2em;
+	height: 230px;
+
+}
+
+
+#banner{
+	padding-left: 10em;
+}
+
+
+
+#tumble{
+	margin-top: 4em;
+    margin-right: 80px ;
+    margin-left: 80px;
+
+
+}
+
+#footer{
+
+	width: 100%;
+}
+
+
+IMG.imgcenter{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      border:none;
+      } 
+
+logo{padding: 2em 2em 2em 2%;}
+
+ #container1{width:800px;}
+
+#container2{width:1000px;}
+
+#login{
+  background-color: #D7D4D4;
+}
+
+#cliente{
+     text-align:center;
+    border-bottom: 1px solid;
+   
+    
+}
+
+#ContCliente{
+    margin:2em 5em 2em 5em;
+    background-color:#DDDDDD;
+    
+}
+
+#container1{
+text-align: center;
+    
+}
